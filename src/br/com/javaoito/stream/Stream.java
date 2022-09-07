@@ -1,4 +1,4 @@
-package br.com.javaoito;
+package br.com.javaoito.stream;
 
 import java.util.Arrays;
 import java.util.List;
@@ -25,4 +25,5 @@ public class Stream {
 		// Return -> [Hayley, CJ Ramone, Einstein]
 
 	}
+
 }
